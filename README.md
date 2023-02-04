@@ -61,7 +61,7 @@ Adapter l'ID de mesure ``G-CKRFLCDH53`` par son ID et coller cette balise Google
 
 
 
-## À retenir
+## À RETENIR
 
 ### Web Analyse
 <img src="/Captures/WebAnalyse_GA4.png">
