@@ -18,7 +18,7 @@
 
 
 ## About The Project
-Mise en place et paramétrage de GA4 sur mon [Portfolio](https://kebiri-isam-dine.github.io/) et analyse web des indicateurs et des insights qu’on peut analyser grâce à cet outil :
+Mise en place et paramétrage de GA4 sur mon [Portfolio](https://kebiri-isam-dine.github.io/) pour l'analyse web des indicateurs et des insights qu’on peut analyser grâce à cet outil :
 
 - Trafic global sur mon Portfolio
 - Sites Web d’origine du trafic
